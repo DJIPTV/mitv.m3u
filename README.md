@@ -50,5 +50,22 @@ https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/a
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 5 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 5 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20632.m3u8/newscasts/live.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 6 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 6 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20633.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 8 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 8 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20634.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX LATINA [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX LATINA [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20635.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Gay [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: Gay [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20636.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCORELAND 2 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 2 1080P [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20637.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCORELAND 3 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 3 1080P [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20638.m3u8
+
+
 
 
