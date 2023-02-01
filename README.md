@@ -2,7 +2,7 @@
 entretenimiento
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" LA TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="A--TELEMUNDO USA 2",LA TELEMUNDO BOSTON
-http://satline.xyz:8080/live/551662584231184/8751662584231184/18456.m3u8/newscasts/live.m3u8
+http://satline.xyz:8080/live/551662584231184/8751662584231184/18456.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO TUCSON" tvg-logo="https://docdog.top/logo/countries/us/telemundotucson.png" group-title="A--TELEMUNDO USA",TELEMUNDO TUCSON
@@ -51,7 +51,7 @@ https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/a
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 5 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 5 [VIP]
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20632.m3u8/newscasts/live.m3u8
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20632.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 6 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 6 [VIP]
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/20633.m3u8
