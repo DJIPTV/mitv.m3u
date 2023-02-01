@@ -1,5 +1,3 @@
-# mitv.m3u
-entretenimiento
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" LA TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="A--TELEMUNDO USA 2",LA TELEMUNDO BOSTON
 http://satline.xyz:8080/live/551662584231184/8751662584231184/18456.m3u8
